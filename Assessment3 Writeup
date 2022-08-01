@@ -1,0 +1,23 @@
+﻿Assessment 3 Write up.
+
+This project is a small web based application for a Shoe Company for planning.
+There are two main functions for Admin & Users or customers.
+
+Users should able to create a new account using mail id in Signup function. 
+Once User Id is created user can sign in the application as a user’s access.
+
+Admin has separate access to the application.
+
+User’s access or functions as below : 
+
+1. Get Product – List all available products or shoes.
+2. Get Product by Category – List all available products or shoes by category ie; Sneakers, Walking and Running
+
+Admin’s access or functions as below : 
+
+1. Add Product – Admin can maintain or update inventory list.
+2. Get Product – List all available products or shoes.
+3. Get Users – List of all signed up users or customers.
+4. Get Purchased by Date – Admin able to view listing of products being purchased based on certain date.
+
+Note : DB records for purchased items prepared separately.
